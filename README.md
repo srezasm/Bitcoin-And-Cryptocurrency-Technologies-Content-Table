@@ -1,3 +1,5 @@
+<img src="./images/cover.jpg" height="250px" alt="Logo of the project" align="right">
+
 ## CHAPTER 1 Introduction to Cryptography and Cryptocurrencies [page...1]
 
 #### 1.1. CRYPTOGRAPHIC HASH FUNCTIONS [page...34]
