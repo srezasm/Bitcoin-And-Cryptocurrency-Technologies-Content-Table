@@ -355,7 +355,7 @@
 - Evaluating the Security of a Bitcoin Beacon
 - Scripting Support for Beacons
 
-#### 9.5. PREDICTION MARKETS AND REAL-WORLD DATA [page...]FEEDS
+#### 9.5. PREDICTION MARKETS AND REAL-WORLD DATA FEEDS [page...331]
 
 - Decentralized Prediction Markets
 - Payment and Settlement
@@ -365,40 +365,40 @@
 
 #### 9.6. FURTHER READING [page...340]
 
-## CHAPTER 10 Altcoins and the Cryptocurrency Ecosystem [page...242]
+## CHAPTER 10 Altcoins and the Cryptocurrency Ecosystem [page...342]
 
-#### 10.1. ALTCOINS: HISTORY AND MOTIVATION 342
+#### 10.1. ALTCOINS: HISTORY AND MOTIVATION [page...342]
 - Reasons for Launching Altcoins
 - How to Launch an Altcoin
 - Pump-and-Dump Scams
 - Initial Allocation
 
-#### 10.2. A FEW ALTCOINS IN DETAIL 348
+#### 10.2. A FEW ALTCOINS IN DETAIL [page...348]
 
 - Namecoin
 - Litecoin
 - Dogecoin
 
-#### 10.3. RELATIONSHIP BETWEEN BITCOIN AND ALTCOINS 352
+#### 10.3. RELATIONSHIP BETWEEN BITCOIN AND ALTCOINS [page...352]
 
 - Comparing Altcoins
 - Economic View of Bitcoin-Altcoin Interactions
 
-#### 10.4. ALTCOIN INFANTICIDE AND MERGE MINING 355
+#### 10.4. ALTCOIN INFANTICIDE AND MERGE MINING [page...355]
 
 - Altcoin Infanticide
 - Merge Mining
 - Merge Mining and Security
 
-#### 10.5. ATOMIC CROSS-CHAIN SWAPS 361
+#### 10.5. ATOMIC CROSS-CHAIN SWAPS [page...361]
 
-#### 10.6. SIDECHAINS: BITCOIN-BACKED ALTCOINS 364
+#### 10.6. SIDECHAINS: BITCOIN-BACKED ALTCOINS [page...364]
 
 - The SPV Trick
 - Contesting a Transfer
 - Compact SPV Proofs via Proof-of-Work Samples
 
-#### 10.7. ETHEREUM AND SMART CONTRACTS 368
+#### 10.7. ETHEREUM AND SMART CONTRACTS [page...368]
 
 - Smart Contract Programming Model
 - A Simple Example: Namecoin in Ethereum
@@ -407,28 +407,28 @@
 - Other Applications
 - Ethereum Project
 
-#### 10.8. FURTHER READING 378
+#### 10.8. FURTHER READING [page...378]
 
 ## CHAPTER 11 Decentralized Institutions: The Future of Bitcoin? [page...272]
 
-#### 11.1. THE BLOCK CHAIN AS A VEHICLE FOR DECENTRALIZATION 380
+#### 11.1. THE BLOCK CHAIN AS A VEHICLE FOR DECENTRALIZATION [page...380]
 
 - Motivating Example
 - Get Smart
 - Secure Exchange
 
-#### 11.2. ROUTES TO BLOCK CHAIN INTEGRATION 383
+#### 11.2. ROUTES TO BLOCK CHAIN INTEGRATION [page...383]
 
 - Route 1: Directly on Bitcoin
 - Route 2: Alternative Block Chains
 
-#### 11.3. TEMPLATE FOR DECENTRALIZATION 388
+#### 11.3. TEMPLATE FOR DECENTRALIZATION [page...388]
 
 - Levels of Decentralization
 - How Security Is Achieved
 - The Framework
 
-#### 11.4. WHEN IS DECENTRALIZATION A GOOD IDEA? 393
+#### 11.4. WHEN IS DECENTRALIZATION A GOOD IDEA? [page...393]
 
 - The Challenge of Real-World Security
 - Pros and Cons of Smart Property
